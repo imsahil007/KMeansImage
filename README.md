@@ -23,7 +23,7 @@ from KMeansImage import kmeans_image_ui
 k_img = kmeans_image_ui( $image_directory_path )
 k_img.save( $save_path_with_file_name )
 ```
-# Example: [PDF](https://github.com/imsahil007/KMeansImage/blob/master/res/tutorial.pdf)
+# Example: [Pdf](https://github.com/imsahil007/KMeansImage/blob/master/res/tutorial.pdf)
 
 Import Library
 
