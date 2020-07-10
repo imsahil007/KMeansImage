@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="KMeansImage", 
-    version="0.69",
+    version="1.0",
     author="Sahil",
     author_email="sahils.1997.s@gmail.com",
     description="A K-Means based image compressor. Consists interactive widgets for Jupyter Notebook",

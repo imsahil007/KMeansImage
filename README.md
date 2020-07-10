@@ -5,7 +5,7 @@ This is a python package to compress images in python using KMeans-Clustering te
 
 [![N|Solid](https://pypi.org/static/images/logo-small.6eef541e.svg)](https://pypi.org/project/KMeansImage/)
 
-![png](https://github.com/imsahil007/KMeansImage/blob/master/res/kmeans.png)
+![png](https://raw.githubusercontent.com/imsahil007/KMeansImage/master/res/kmeans.png)
 Download the package using:
 ```
 pip3 install KMeansImage
@@ -45,7 +45,7 @@ k_img = kmeans_image('/home/sahil/Downloads/KMeansImage/res/batman.jpg', 20)
 
 
 
-![png](https://github.com/imsahil007/KMeansImage/blob/master/res/batman_KMeans_.jpg)
+![png](https://raw.githubusercontent.com/imsahil007/KMeansImage/master/res/batman_KMeans_.jpg)
 
 
 See the difference between size of both pics<br>
@@ -74,7 +74,7 @@ k_img = kmeans_image_ui('/home/sahil/Downloads/KMeansImage/res/')
 ```
 
 
-![png](https://github.com/imsahil007/KMeansImage/blob/master/res/example.png)
+![png](https://raw.githubusercontent.com/imsahil007/KMeansImage/master/res/example.png)
 
 
 

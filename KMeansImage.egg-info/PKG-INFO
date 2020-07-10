@@ -1,11 +1,12 @@
 Metadata-Version: 2.1
 Name: KMeansImage
-Version: 0.69
+Version: 1.0
 Summary: A K-Means based image compressor. Consists interactive widgets for Jupyter Notebook
-Home-page: UNKNOWN
+Home-page: https://github.com/imsahil007/KMeansImage
 Author: Sahil
 Author-email: sahils.1997.s@gmail.com
 License: UNKNOWN
+Download-URL: https://github.com/imsahil007/KMeansImage/blob/master/dist/KMeansImage-0.69.tar.gz
 Description: # KMeansImage
         # Pip package(Python >= 3.6)
         
@@ -13,7 +14,7 @@ Description: # KMeansImage
         
         [![N|Solid](https://pypi.org/static/images/logo-small.6eef541e.svg)](https://pypi.org/project/KMeansImage/)
         
-        ![image](https://github.com/imsahil007/KMeansImage/blob/master/res/kmeans.jpg)
+        ![png](https://raw.githubusercontent.com/imsahil007/KMeansImage/master/res/kmeans.png)
         Download the package using:
         ```
         pip3 install KMeansImage
@@ -31,7 +32,7 @@ Description: # KMeansImage
         k_img = kmeans_image_ui( $image_directory_path )
         k_img.save( $save_path_with_file_name )
         ```
-        # Example: [PDF](https://github.com/imsahil007/KMeansImage/blob/master/res/tutorial.pdf)
+        # Example: [Pdf](https://github.com/imsahil007/KMeansImage/blob/master/res/tutorial.pdf)
         
         Import Library
         
@@ -53,7 +54,7 @@ Description: # KMeansImage
         
         
         
-        ![png](https://github.com/imsahil007/KMeansImage/blob/master/res/batman_KMeans_.jpg)
+        ![png](https://raw.githubusercontent.com/imsahil007/KMeansImage/master/res/batman_KMeans_.jpg)
         
         
         See the difference between size of both pics<br>
@@ -82,7 +83,7 @@ Description: # KMeansImage
         ```
         
         
-        ![png](https://github.com/imsahil007/KMeansImage/blob/master/res/example.png)
+        ![png](https://raw.githubusercontent.com/imsahil007/KMeansImage/master/res/example.png)
         
         
         
@@ -140,5 +141,5 @@ Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
-Requires-Python: >=3.6
+Requires-Python: >=3.0
 Description-Content-Type: text/markdown

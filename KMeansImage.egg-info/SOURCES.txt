@@ -9,4 +9,5 @@ KMeansImage/kmeans.py
 KMeansImage.egg-info/PKG-INFO
 KMeansImage.egg-info/SOURCES.txt
 KMeansImage.egg-info/dependency_links.txt
+KMeansImage.egg-info/requires.txt
 KMeansImage.egg-info/top_level.txt
